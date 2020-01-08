@@ -1,0 +1,8 @@
+• What is the definition of server port? 
+	A device that transfers data from a serial port to an ethernet LAN
+• What is server port range? 
+	0 to 65535 but only 0 to 1023 are known as well known ports
+• How many bits does number above represent? 
+	16 bits
+• State 10 common server ports
+	1, 20, 22, 23, 25, 53, 80, 156, 443, 546
