@@ -1,0 +1,52 @@
+root@lamp-s-1vcpu-1gb-tor1-01:~# nmap google.ca
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-15 16:05 UTC
+Nmap scan report for google.ca (172.217.1.163)
+Host is up (0.00067s latency).
+Other addresses for google.ca (not scanned): 2607:f8b0:400b:809::2003
+rDNS record for 172.217.1.163: yyz10s04-in-f3.1e100.net
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 17.67 seconds
+_______________________________________________________________________
+root@lamp-s-1vcpu-1gb-tor1-01:~# nmap -p 80 georgebrown.ca
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-15 16:10 UTC
+Nmap scan report for georgebrown.ca (198.96.86.202)
+Host is up (0.0012s latency).
+rDNS record for 198.96.86.202: interviewfail.ca
+
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap done: 1 IP address (1 host up) scanned in 0.50 seconds
+_______________________________________________________________________
+root@lamp-s-1vcpu-1gb-tor1-01:~# nmap -p 50-100 wikipedia.org
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-15 16:12 UTC
+Nmap scan report for wikipedia.org (208.80.154.224)
+Host is up (0.027s latency).
+Other addresses for wikipedia.org (not scanned): 2620:0:861:ed1a::1
+rDNS record for 208.80.154.224: text-lb.eqiad.wikimedia.org
+Not shown: 50 closed ports
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap done: 1 IP address (1 host up) scanned in 1.66 seconds
+________________________________________________________________________
+root@lamp-s-1vcpu-1gb-tor1-01:~# nmap -F cisco.com
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-15 16:13 UTC
+Nmap scan report for cisco.com (72.163.4.185)
+Host is up (0.040s latency).
+Other addresses for cisco.com (not scanned): 2001:420:1101:1::185
+rDNS record for 72.163.4.185: redirect-ns.cisco.com
+Not shown: 98 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 2.19 seconds

@@ -1,0 +1,343 @@
+Domain Name: georgebrown.ca
+Registry Domain ID: D121739-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: www.webnames.ca
+Updated Date: 2019-06-04T11:48:21Z
+Creation Date: 2002-07-04T08:35:23Z
+Registry Expiry Date: 2020-07-04T04:00:00Z
+Registrar: Webnames.ca Inc.
+Registrar IANA ID: 456
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: R21312-CIRA
+Registrant Name: George Brown College (Toronto)
+Registrant Organization:
+Registrant Street: P.O. Box 1015 Station B
+Registrant City: Toronto
+Registrant State/Province: ON
+Registrant Postal Code: M5T2T9
+Registrant Country: CA
+Registrant Phone: +1.4164155000
+Registrant Phone Ext: 5012
+Registrant Fax: +1.4164154667
+Registrant Fax Ext:
+Registrant Email: ariem@georgebrown.ca
+Registry Admin ID: C883431-CIRA
+Admin Name: Andrew Riem
+Admin Organization: George Brown College
+Admin Street: P.O. Box 1015 Station B
+Admin City: Toronto
+Admin State/Province: ON
+Admin Postal Code: M5T2T9
+Admin Country: CA
+Admin Phone: +1.4164155000
+Admin Phone Ext: 5012
+Admin Fax: +1.4164154667
+Admin Fax Ext:
+Admin Email: ariem@georgebrown.ca
+Registry Tech ID: C883432-CIRA
+Tech Name: Dorin Grunberg
+Tech Organization: George Brown College
+Tech Street: P.O. Box 1015 Station B
+Tech City: Toronto
+Tech State/Province: ON
+Tech Postal Code: M5T2T9
+Tech Country: CA
+Tech Phone: +1.4164155000
+Tech Phone Ext: 4935
+Tech Fax: +1.4164154836
+Tech Fax Ext:
+Tech Email: dgrunberg@georgebrown.ca
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: ns1.georgebrown.ca
+Name Server: ns2.georgebrown.ca
+Name Server: ns1.d-zone.ca
+Name Server: ns2.d-zone.ca
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2019-06-21T23:00:19Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+%
+% Use of CIRA's WHOIS service is governed by the Terms of Use in its Legal
+% Notice, available at http://www.cira.ca/legal-notice/?lang=en
+%
+% (c) 2019 Canadian Internet Registration Authority, (http://www.cira.ca/)
+______________________________________________________________________________________________________________
+Domain Name: nintendo.ca
+Registry Domain ID: D707352-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: www.cscglobal.com
+Updated Date: 2019-08-09T21:01:35Z
+Creation Date: 2000-10-30T17:49:19Z
+Registry Expiry Date: 2020-06-22T04:00:00Z
+Registrar: CSC Corporate Domains (Canada) Company
+Registrar IANA ID:
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: 19306796-CIRA
+Registrant Name: Nintendo of Canada Ltd.
+Registrant Organization:
+Registrant Street: Suite 150-2925 Virtual Way
+Registrant City: Vancouver
+Registrant State/Province: BC
+Registrant Postal Code: V5M4X5
+Registrant Country: CA
+Registrant Phone: +1.6042791600
+Registrant Phone Ext:
+Registrant Fax: +1.6042791649
+Registrant Fax Ext:
+Registrant Email: webmaster@nintendo.com
+Registry Admin ID: 19111388-CIRA
+Admin Name: Susan Tucker
+Admin Organization:
+Admin Street: Suite 150-2925 Virtual Way
+Admin City: Vancouver
+Admin State/Province: BC
+Admin Postal Code: V5M4X5
+Admin Country: CA
+Admin Phone: +1.6042791600
+Admin Phone Ext:
+Admin Fax: +1.6042791649
+Admin Fax Ext:
+Admin Email: webmaster@nintendo.com
+Registry Tech ID: 19321265-CIRA
+Tech Name: Susan Tucker
+Tech Organization:
+Tech Street: Suite 150-2925 Virtual Way
+Tech City: Vancouver
+Tech State/Province: BC
+Tech Postal Code: V5M4X5
+Tech Country: CA
+Tech Phone: +1.6042791600
+Tech Phone Ext:
+Tech Fax: +1.6042791649
+Tech Fax Ext:
+Tech Email: webmaster@nintendo.com
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: ns-1350.awsdns-40.org
+Name Server: ns-1668.awsdns-16.co.uk
+Name Server: ns-192.awsdns-24.com
+Name Server: ns-681.awsdns-21.net
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2020-01-15T15:26:09Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+%
+% Use of CIRA's WHOIS service is governed by the Terms of Use in its Legal
+% Notice, available at http://www.cira.ca/legal-notice/?lang=en
+%
+% (c) 2019 Canadian Internet Registration Authority, (http://www.cira.ca/)
+____________________________________________________________________________________________________________________
+Domain Name: torontopubliclibrary.ca
+Registry Domain ID: D178467-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: www.easydns.ca
+Updated Date: 2019-11-01T19:34:41Z
+Creation Date: 2003-11-21T20:37:09Z
+Registry Expiry Date: 2020-11-21T05:00:00Z
+Registrar: easyDNS Technologies Inc.
+Registrar IANA ID:
+Registrar Abuse Contact Email: abuse@easydns.com
+Registrar Abuse Contact Phone: +1.4165358672
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: 32543538-CIRA
+Registrant Name: Toronto Public Library
+Registrant Organization:
+Registrant Street:
+Registrant City:
+Registrant State/Province:
+Registrant Postal Code:
+Registrant Country:
+Registrant Phone:
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email:
+Registry Admin ID: 32543539-CIRA
+Admin Name: Ian Stegman
+Admin Organization: Toronto Public Library
+Admin Street: 120 Martin Ross Avenue
+Admin City: Toronto
+Admin State/Province: ON
+Admin Postal Code: M3J2L4
+Admin Country: CA
+Admin Phone: 416-395-5920
+Admin Phone Ext:
+Admin Fax: 416-395-5923
+Admin Fax Ext:
+Admin Email: istegman@torontopubliclibrary.ca
+Registry Tech ID: 32543540-CIRA
+Tech Name: Daniel Albano
+Tech Organization: Toronto Public Libary
+Tech Street: 120 Martin Ross Avenue
+Tech City: Toronto
+Tech State/Province: ON
+Tech Postal Code: M3J2L4
+Tech Country: CA
+Tech Phone: 416-395-5907
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: dalbano@torontopubliclibrary.ca
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: dns1.easydns.com
+Name Server: dns2.easydns.net
+Name Server: dns3.easydns.ca
+Name Server: dns4.easydns.info
+Name Server: huron.tpl.toronto.on.ca
+Name Server: mohawk.tpl.ca
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2020-01-15T15:28:04Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+%
+% Use of CIRA's WHOIS service is governed by the Terms of Use in its Legal
+% Notice, available at http://www.cira.ca/legal-notice/?lang=en
+%
+% (c) 2019 Canadian Internet Registration Authority, (http://www.cira.ca/)
+___________________________________________________________________________________________________________________
+Domain Name: cisco.com
+Registry Domain ID: 4987030_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2019-06-21T07:47:18-0700
+Creation Date: 1987-05-13T21:00:00-0700
+Registrar Registration Expiration Date: 2022-05-14T21:00:00-0700
+Registrar: MarkMonitor, Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: +1.2083895770
+Domain Status: clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+Domain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+Domain Status: serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)
+Domain Status: serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)
+Domain Status: serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)
+Registry Registrant ID: 
+Registrant Name: Domain Administrator
+Registrant Organization:  Cisco Technology Inc.
+Registrant Street: 170 W. Tasman Dr.
+Registrant City: San Jose
+Registrant State/Province: CA
+Registrant Postal Code: 95134
+Registrant Country: US
+Registrant Phone: +1.4085273842
+Registrant Phone Ext: 
+Registrant Fax: +1.4085264575
+Registrant Fax Ext: 
+Registrant Email: 
+Registry Admin ID: 
+Admin Name: Domain Administrator
+Admin Organization:  Cisco Technology Inc.
+Admin Street: 170 W. Tasman Dr.
+Admin City: San Jose
+Admin State/Province: CA
+Admin Postal Code: 95134
+Admin Country: US
+Admin Phone: +1.4085273842
+Admin Phone Ext: 
+Admin Fax: +1.4085264575
+Admin Fax Ext: 
+Admin Email: 
+Registry Tech ID: 
+Tech Name: Domain Administrator
+Tech Organization:  Cisco Technology Inc.
+Tech Street: 170 W. Tasman Dr.
+Tech City: San Jose
+Tech State/Province: CA
+Tech Postal Code: 95134
+Tech Country: US
+Tech Phone: +1.4085273842
+Tech Phone Ext: 
+Tech Fax: +1.4085264575
+Tech Fax Ext: 
+Tech Email: 
+Name Server: ns1.cisco.com
+Name Server: ns3.cisco.com
+Name Server: ns2.cisco.com
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+
+For more information on WHOIS status codes, please visit:
+  https://www.icann.org/resources/pages/epp-status-codes
+___________________________________________________________________________________________________________________
+Domain Name: google.com
+Registry Domain ID: 2138514_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2019-09-09T08:39:04-0700
+Creation Date: 1997-09-15T00:00:00-0700
+Registrar Registration Expiration Date: 2028-09-13T00:00:00-0700
+Registrar: MarkMonitor, Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: +1.2083895770
+Domain Status: clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+Domain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+Domain Status: serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)
+Domain Status: serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)
+Domain Status: serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)
+Registrant Organization: Google LLC
+Registrant State/Province: CA
+Registrant Country: US
+Admin Organization: Google LLC
+Admin State/Province: CA
+Admin Country: US
+Tech Organization: Google LLC
+Tech State/Province: CA
+Tech Country: US
+Name Server: ns2.google.com
+Name Server: ns1.google.com
+Name Server: ns3.google.com
+Name Server: ns4.google.com
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+
+For more information on WHOIS status codes, please visit:
+  https://www.icann.org/resources/pages/epp-status-codes
+__________________________________________________________________________________________________________________
