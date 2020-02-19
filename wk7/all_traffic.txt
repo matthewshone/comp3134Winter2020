@@ -1,0 +1,1 @@
+netstat -a>all_traffic_20200219_1104.txt
