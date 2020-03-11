@@ -1,0 +1,6 @@
+<what does the page show?>
+an array showing all directories in the droplet root
+
+<What sensitive info is shown?>
+see above
+all directories in the droplet root

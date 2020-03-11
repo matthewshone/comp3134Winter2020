@@ -1,0 +1,6 @@
+<describe browser page?>
+all white page with a list of files in /var/www/html
+address bar has "Not secure"
+
+<what sensitive info is shown?>
+besides the array nothing else

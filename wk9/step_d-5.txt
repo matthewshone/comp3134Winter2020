@@ -1,0 +1,5 @@
+<describe browser?>
+an array showing /var/www/ of the droplet
+
+<what sensitive info is shown?>
+the directory of /var/www/ of droplet
