@@ -1,0 +1,5 @@
+1) page loads into defination of word i searched and url changes to show the word I typed in, followed by ?s=t
+2) page loads into error page showing "no results found" url changed from /browse/ to /misspelling?term=qworp&s=t
+3) page loads into "results for <script>alert('hello')</script>" showing various links to external webpages.
+   url reads /noresult?term=<script>alert('hello')<%2Fscript>%s=ts
+4) same results as above
