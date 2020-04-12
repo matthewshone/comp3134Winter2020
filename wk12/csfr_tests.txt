@@ -1,0 +1,2 @@
+the csfr.html form just redirects to the php form without retaining any info, while using the 
+csfr_form.php the hidden info and session will be sent to csfr_action
