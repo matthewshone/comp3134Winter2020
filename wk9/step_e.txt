@@ -1,0 +1,1 @@
+use basename(), then use file_exist to determine if directory exists
